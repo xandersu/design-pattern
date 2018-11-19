@@ -1,0 +1,12 @@
+package com.example.designpattern.designdiscipline.singleresponsibility;
+
+/**
+ * @Author: suxun
+ * @Date: 2018/11/19 22:49
+ * @Description:
+ */
+public class FlyBird {
+    public void mainMoveMode(String birdName) {
+            System.out.println(birdName + "用翅膀飞");
+    }
+}
