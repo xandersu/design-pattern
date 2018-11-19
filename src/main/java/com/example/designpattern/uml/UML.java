@@ -74,7 +74,7 @@ package com.example.designpattern.uml;
  * | _+sex:char_  |下划线代表static
  * ---------------
  * |+eat(food)   |
- * |+study[斜体]()| 斜体代表abstract 抽象方法
+ * |+studyCourse[斜体]()| 斜体代表abstract 抽象方法
  * |+openMac():boolean| 权限 方法名(参数):返回值类型
  * |_+playGames()_|  下划线代表static
  * ———————————————
