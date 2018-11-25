@@ -1,4 +1,4 @@
-package com.example.designpattern.designdiscipline.dependencyinversion;
+package com.example.designpattern.designdiscipline.dependency_inversion;
 
 /**
  * @Author: suxun

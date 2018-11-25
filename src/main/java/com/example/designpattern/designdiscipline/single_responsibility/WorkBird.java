@@ -1,4 +1,4 @@
-package com.example.designpattern.designdiscipline.singleresponsibility;
+package com.example.designpattern.designdiscipline.single_responsibility;
 
 /**
  * @Author: suxun
