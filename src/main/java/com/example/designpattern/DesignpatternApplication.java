@@ -19,6 +19,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 创建型模式
  * 结构型
  * 行为型
+ *
  */
 @SpringBootApplication
 public class DesignpatternApplication {
