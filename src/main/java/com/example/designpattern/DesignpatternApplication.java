@@ -12,8 +12,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 创建型模式
  * 结构式模式
  * 行为型模式
- *
- *
+ * `
+ * uml
+ * 7个设计原则
+ * 设计模式
+ * 创建型模式
+ * 结构型
+ * 行为型
  */
 @SpringBootApplication
 public class DesignpatternApplication {
